@@ -1,0 +1,15 @@
+/Users/dalersamsov/Desktop/ex/EX003_sum/bin/Debug/net6.0/EX003_sum
+/Users/dalersamsov/Desktop/ex/EX003_sum/bin/Debug/net6.0/EX003_sum.deps.json
+/Users/dalersamsov/Desktop/ex/EX003_sum/bin/Debug/net6.0/EX003_sum.runtimeconfig.json
+/Users/dalersamsov/Desktop/ex/EX003_sum/bin/Debug/net6.0/EX003_sum.dll
+/Users/dalersamsov/Desktop/ex/EX003_sum/bin/Debug/net6.0/EX003_sum.pdb
+/Users/dalersamsov/Desktop/ex/EX003_sum/obj/Debug/net6.0/EX003_sum.csproj.AssemblyReference.cache
+/Users/dalersamsov/Desktop/ex/EX003_sum/obj/Debug/net6.0/EX003_sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dalersamsov/Desktop/ex/EX003_sum/obj/Debug/net6.0/EX003_sum.AssemblyInfoInputs.cache
+/Users/dalersamsov/Desktop/ex/EX003_sum/obj/Debug/net6.0/EX003_sum.AssemblyInfo.cs
+/Users/dalersamsov/Desktop/ex/EX003_sum/obj/Debug/net6.0/EX003_sum.csproj.CoreCompileInputs.cache
+/Users/dalersamsov/Desktop/ex/EX003_sum/obj/Debug/net6.0/EX003_sum.dll
+/Users/dalersamsov/Desktop/ex/EX003_sum/obj/Debug/net6.0/refint/EX003_sum.dll
+/Users/dalersamsov/Desktop/ex/EX003_sum/obj/Debug/net6.0/EX003_sum.pdb
+/Users/dalersamsov/Desktop/ex/EX003_sum/obj/Debug/net6.0/EX003_sum.genruntimeconfig.cache
+/Users/dalersamsov/Desktop/ex/EX003_sum/obj/Debug/net6.0/ref/EX003_sum.dll
